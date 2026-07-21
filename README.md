@@ -1,2 +1,2 @@
 ## Random number generator:
-    Simple project to practice a code
+    Simple program to practices python programming.
